@@ -17,8 +17,8 @@ GPT-2 Model: The GPT-2 model is chosen for its ability to generate coherent and 
 Tokenizer: The GPT-2 tokenizer is used to preprocess the input data and encode it into tokens suitable for input to the model. Special tokens such as <startofstring>, <endofstring>, and <bot>: are added to indicate the start and end of the input string and to differentiate the bot's responses.
 Training Loop: The training loop iterates over the dataset in batches, feeding the input to the model and calculating the loss using the model's output. The Adam optimizer is used to update the model parameters based on the loss.
 You can visit [Chatbot](https://drive.google.com/drive/folders/1PD-JrZVVOXWMxh7UsLiwgUzBQTETlHAi?usp=drive_link)
-for accessing required weights.
-User Feedback: The chatbot allows users to provide feedback on the generated responses. Users can indicate whether the response was helpful, not helpful, or choose to skip providing feedback. This feedback is used to improve the chatbot's answers over time.
+for accessing required weights.<br>
+User Feedback: The chatbot allows users to provide feedback on the generated responses. Users can indicate whether the response was helpful, not helpful, or choose to skip providing feedback. This feedback is used to improve the chatbot's answers over time.<br>
 
 Challenges Faced
 Dataset Creation: A conversational dataset between two participants about Bangladesh was created to extract the relevant text for training the model. Some of the topics of the conversation include foods,famous places, culture, climate, traditions, national history, arts and crafts about Bangladesh.  
