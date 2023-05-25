@@ -1,0 +1,2022 @@
+[
+  {
+    "dialog_id": "0x001",
+    "dialog": [
+      { "id": 0, "sender": "participant1", "text": "Hi" },
+      { "id": 1, "sender": "participant2", "text": "Hello! How can I assist you today?" }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+  {
+    "dialog_id": "0x002",
+    "dialog": [
+      { "id": 0, "sender": "participant1", "text": "What are some famous places to visit in Bangladesh?" },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Bangladesh is home to many beautiful places. Some popular attractions include the Sundarbans, Cox's Bazar, Sylhet, and St. Martin's Island."
+      },
+      {
+        "id": 2,
+        "sender": "participant1",
+        "text": "Tell me more about the Sundarbans."
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "The Sundarbans is a UNESCO World Heritage Site and the largest mangrove forest in the world. It is home to the Royal Bengal Tigers and various unique flora and fauna."
+      },
+      {
+        "id": 4,
+        "sender": "participant1",
+        "text": "That sounds amazing! Are there any famous rivers in Bangladesh?"
+      },
+      {
+        "id": 5,
+        "sender": "participant2",
+        "text": "Yes, Bangladesh is often referred to as the 'land of rivers.' The major rivers include the Padma, Meghna, Jamuna, Brahmaputra, and the Ganges, which form a dense network of waterways throughout the country."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+  {
+    "dialog_id": "0x003",
+    "dialog": [
+      { "id": 0, "sender": "participant1", "text": "What is the traditional food of Bangladesh?" },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Bangladeshi cuisine is rich and diverse. Some popular traditional dishes include biryani, fish curry, shorshe ilish (hilsa fish in mustard sauce), pitha (rice cakes), and various types of delicious sweets like roshogolla and mishti doi."
+      },
+      {
+        "id": 2,
+        "sender": "participant1",
+        "text": "I love trying new cuisines. Can you recommend any famous street food in Bangladesh?"
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "Sure! In Bangladesh, you must try fuchka (pani puri), jhalmuri (spicy puffed rice), shingara (samosa), and bhapa pitha (steamed rice cakes). These street foods are popular and offer unique flavors."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+  {
+    "dialog_id": "0x004",
+    "dialog": [
+      { "id": 0, "sender": "participant1", "text": "What is the population of Bangladesh?" },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "The population of Bangladesh is approximately 166 million people. It is the eighth-most populous country in the world."
+      },
+      {
+        "id": 2,
+        "sender": "participant1",
+        "text": "That's a significant population! What are the major religions in Bangladesh?"
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "Bangladesh is predominantly a Muslim-majority country, with Islam being the largest religion. However, it is also home to significant Hindu, Buddhist, and Christian communities."
+      },
+      {
+        "id": 4,
+        "sender": "participant1",
+        "text": "I see. What are some notable festivals celebrated in Bangladesh?"
+      },
+      {
+        "id": 5,
+        "sender": "participant2",
+        "text": "Some prominent festivals in Bangladesh include Eid-ul-Fitr (celebrated after Ramadan), Durga Puja, Pohela Boishakh (Bengali New Year), and Language Movement Day (observed on February 21st). These festivals showcase the cultural diversity and unity of the people."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+	{
+    "dialog_id": "0x005",
+    "dialog": [
+      { "id": 0, "sender": "participant1", "text": "Can you tell me about the culture of Bangladesh?" },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Certainly! Bangladeshi culture is a blend of various influences, including Bengali, Mughal, and British. The people of Bangladesh are known for their hospitality, festivals, music, dance, and art. Traditional folk music, such as Baul and Bhatiali, are popular, and festivals like Pohela Boishakh and Eid-ul-Fitr are celebrated with enthusiasm."
+      },
+      {
+        "id": 2,
+        "sender": "participant1",
+        "text": "That's fascinating! How about the history of Bangladesh?"
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "Bangladesh has a rich history. It was part of ancient empires like the Maurya and Gupta dynasties. During the medieval period, it was ruled by various sultanates and later came under British colonial rule. Bangladesh emerged as an independent nation in 1971 after a liberation war. The country has since made significant progress in various sectors and continues to develop."
+      },
+      {
+        "id": 4,
+        "sender": "participant1",
+        "text": "Thank you for the information! Are there any notable historical sites in Bangladesh?"
+      },
+      {
+        "id": 5,
+        "sender": "participant2",
+        "text": "Yes, Bangladesh has several historical sites worth visiting. Some notable ones include the ancient ruins of Paharpur and Mahasthangarh, the Lalbagh Fort, the Ahsan Manzil Palace, and the Sixty Dome Mosque. These sites offer insights into the country's rich historical heritage."
+      }
+	],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+  {
+    "dialog_id": "0x006",
+    "dialog": [
+      { "id": 0, "sender": "participant1", "text": "Tell me about the education system in Bangladesh." },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Bangladesh has made significant strides in its education system. Primary education is compulsory and free. The country has numerous universities, both public and private, offering a wide range of academic programs. Dhaka University is one of the oldest and most prestigious educational institutions in the country."
+      },
+      {
+        "id": 2,
+        "sender": "participant1",
+        "text": "That's impressive! How about the national language of Bangladesh?"
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "The national language of Bangladesh is Bengali, also known as Bangla. It is the mother tongue of the majority of the population and holds great cultural significance. Bengali is widely spoken and is the official language of the country."
+      },
+      {
+        "id": 4,
+        "sender": "participant1",
+        "text": "I see. Is there anything else I should know about Bangladesh?"
+      },
+      {
+        "id": 5,
+        "sender": "participant2",
+        "text": "Bangladesh is known for its vibrant textile and garment industry, producing clothing for many renowned international brands. The country's economy has been growing steadily, and it has made significant progress in sectors like agriculture, technology, and healthcare."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+    {
+    "dialog_id": "0x007",
+    "dialog": [
+      { "id": 0, "sender": "participant1", "text": "What is the climate like in Bangladesh?" },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Bangladesh has a tropical monsoon climate. It experiences hot and humid summers with temperatures ranging from 25°C to 40°C (77°F to 104°F). The winters are mild, with temperatures around 10°C to 20°C (50°F to 68°F). The country also receives heavy rainfall during the monsoon season, which lasts from June to September."
+      },
+      {
+        "id": 2,
+        "sender": "participant1",
+        "text": "That's good to know. Are there any traditional arts and crafts in Bangladesh?"
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "Yes, Bangladesh has a rich tradition of arts and crafts. Some notable ones include Nakshi Kantha (embroidered quilt), Jamdani (handloom textile), Terracotta pottery, and Shital Pati (traditional mat made from plant fibers). These crafts showcase the skill and creativity of the artisans in Bangladesh."
+      },
+      {
+        "id": 4,
+        "sender": "participant1",
+        "text": "I appreciate the information! Can you recommend any books or authors from Bangladesh?"
+      },
+      {
+        "id": 5,
+        "sender": "participant2",
+        "text": "Certainly! Some renowned Bangladeshi authors include Rabindranath Tagore, the first non-European Nobel laureate in Literature, and Kazi Nazrul Islam, a prominent poet. Taslima Nasrin, Shahidullah Kaiser, and Muhammad Zafar Iqbal are also notable writers from Bangladesh."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+  {
+    "dialog_id": "0x008",
+    "dialog": [
+      { "id": 0, "sender": "participant1", "text": "Tell me about the traditional clothing in Bangladesh." },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Traditional clothing in Bangladesh varies based on region and occasion. One of the most iconic garments is the saree, which is draped elegantly by women. Men often wear the traditional attire known as the panjabi or kurta along with the lungi or pajama. The gamchha, a traditional handwoven towel, is also widely used."
+      },
+      {
+        "id": 2,
+        "sender": "participant1",
+        "text": "That's fascinating! Are there any famous personalities from Bangladesh?"
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "Absolutely! Bangladesh has produced notable personalities in various fields. Some famous individuals include Sheikh Mujibur Rahman, the founding father of Bangladesh, Nobel Laureate Dr. Muhammad Yunus, renowned filmmaker Tareque Masud, and world-class cricketer Shakib Al Hasan, among many others."
+      },
+      {
+        "id": 4,
+        "sender": "participant1",
+        "text": "Thank you for sharing that! What are the major industries in Bangladesh?"
+      },
+      {
+        "id": 5,
+        "sender": "participant2",
+        "text": "Bangladesh has a diverse economy with several major industries. The garment and textile industry is the largest export sector, followed by agriculture, pharmaceuticals, jute, and leather goods. The country also has a growing IT and software services industry."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+  {
+    "dialog_id": "0x009",
+    "dialog": [
+      { "id": 0, "sender": "participant1", "text": "What are some traditional festivals in Bangladesh?" },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Bangladesh celebrates various traditional festivals throughout the year. Some of the notable ones include Eid-ul-Fitr, which marks the end of Ramadan, the holy month of fasting for Muslims. Pohela Boishakh, the Bengali New Year, is celebrated with cultural events and festivities. Durga Puja, a Hindu festival honoring the goddess Durga, is also widely celebrated."
+      },
+      {
+        "id": 2,
+        "sender": "participant1",
+        "text": "That's interesting! Are there any UNESCO World Heritage Sites in Bangladesh?"
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "Yes, Bangladesh has several UNESCO World Heritage Sites. The historic Mosque City of Bagerhat, the Ruins of the Buddhist Vihara at Paharpur, and the Sundarbans, a unique mangrove forest, are among the recognized sites. These sites showcase the rich cultural and natural heritage of Bangladesh."
+      },
+      {
+        "id": 4,
+        "sender": "participant1",
+        "text": "Thank you for sharing that! Can you tell me about the traditional music and dance of Bangladesh?"
+      },
+      {
+        "id": 5,
+        "sender": "participant2",
+        "text": "Traditional music and dance in Bangladesh are diverse and vibrant. Baul and Lalon music are deeply rooted in the folk tradition. Classical music forms like Rabindra Sangeet, inspired by the works of Rabindranath Tagore, are also popular. Traditional dance forms like Gaudiya Nritya and Manipuri dance showcase the cultural heritage of the country."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+  {
+    "dialog_id": "0x010",
+    "dialog": [
+      { "id": 0, "sender": "participant1", "text": "What are some popular tourist attractions in Bangladesh?" },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Bangladesh offers a range of captivating tourist attractions. The Sundarbans, the largest mangrove forest in the world, is a must-visit for its unique biodiversity. Cox's Bazar, known for its long sandy beach, is a popular destination for beach lovers. The historical sites of Dhaka, including Lalbagh Fort and Ahsan Manzil, showcase the rich history of the country."
+      },
+      {
+        "id": 2,
+        "sender": "participant1",
+        "text": "That sounds intriguing! How is the cuisine of Bangladesh?"
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "Bangladeshi cuisine is diverse and flavorful. Some popular dishes include Biryani, a fragrant rice dish with meat or vegetables, and Bhuna Khichuri, a hearty mixed rice dish. Fish is a staple of Bangladeshi cuisine, and Hilsa fish is particularly famous. Other popular dishes include Shorshe Ilish, Kacchi Biryani, and various mouthwatering sweets like Roshogolla and Mishti Doi."
+      },
+      {
+        "id": 4,
+        "sender": "participant1",
+        "text": "Thank you for sharing that! Can you tell me about the educational system in Bangladesh?"
+      },
+      {
+        "id": 5,
+        "sender": "participant2",
+        "text": "The educational system in Bangladesh follows a formal structure. It includes primary education, secondary education, and tertiary education. The country has numerous public and private schools, colleges, and universities offering a wide range of academic programs. The University of Dhaka, established in 1921, is one of the oldest and most prestigious universities in Bangladesh."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+  {
+    "dialog_id": "0x011",
+    "dialog": [
+      { "id": 0, "sender": "participant1", "text": "Tell me about the traditional sports in Bangladesh." },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Traditional sports in Bangladesh have a rich history and cultural significance. Some popular traditional sports include Kabaddi, a contact team sport, and Ha-du-du, a tag-based game. Lathi Khela, a martial arts form using sticks, is also practiced. Boat racing, known as Nouka Baich, is a traditional water sport enjoyed during festivals."
+      },
+      {
+        "id": 2,
+        "sender": "participant1",
+        "text": "That's fascinating! Are there any famous landmarks in Bangladesh?"
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "Absolutely! Bangladesh boasts several famous landmarks. The Shaheed Minar, a monument commemorating the Language Movement, is an iconic symbol of the country. The National Parliament House in Dhaka, designed by renowned architect Louis Kahn, is an architectural marvel. The Shait Gumbad Mosque and the Sixty Dome Mosque are also notable landmarks."
+      },
+      {
+        "id": 4,
+        "sender": "participant1",
+        "text": "Thank you for sharing that! Can you tell me about the wildlife in Bangladesh?"
+      },
+      {
+        "id": 5,
+        "sender": "participant2",
+        "text": "Bangladesh is home to diverse wildlife. The Sundarbans, a UNESCO World Heritage Site, is renowned for its Bengal tigers, saltwater crocodiles, and various bird species. The country is also rich in biodiversity, with numerous species of deer, monkeys, snakes, and freshwater dolphins found in its forests, wetlands, and rivers."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+    {
+    "dialog_id": "0x012",
+    "dialog": [
+      { "id": 0, "sender": "participant1", "text": "What are some famous historical landmarks in Bangladesh?" },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Bangladesh has a rich history and is home to several famous historical landmarks. Some notable ones include the Lalbagh Fort in Dhaka, a 17th-century Mughal fort with beautiful gardens. The Ahsan Manzil, also known as the Pink Palace, is a historic mansion-turned-museum. The Somapura Mahavihara in Paharpur is a UNESCO World Heritage Site, known for its ancient Buddhist ruins."
+      },
+      {
+        "id": 2,
+        "sender": "participant1",
+        "text": "That's fascinating! Tell me about the traditional arts and crafts of Bangladesh."
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "Bangladesh has a rich tradition of arts and crafts. Jamdani, a handloom textile, is renowned for its intricate designs and delicate workmanship. Nakshi Kantha, a type of embroidered quilt, is popular for its vibrant patterns. Terracotta pottery, metalwork, and bamboo crafts are also widely practiced. The art of traditional painting, known as 'patachitra,' is highly regarded."
+      },
+      {
+        "id": 4,
+        "sender": "participant1",
+        "text": "Thank you for sharing that! Can you tell me about the healthcare system in Bangladesh?"
+      },
+      {
+        "id": 5,
+        "sender": "participant2",
+        "text": "The healthcare system in Bangladesh has seen significant improvements over the years. The country has a mix of public and private healthcare facilities. Government initiatives have focused on improving healthcare infrastructure and accessibility. The major cities have well-equipped hospitals and medical colleges. The government also operates mobile healthcare units to provide medical services to rural areas."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+    {
+    "dialog_id": "0x013",
+    "dialog": [
+      { "id": 0, "sender": "participant1", "text": "Tell me about the cultural festivals celebrated in Bangladesh." },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Bangladesh celebrates a variety of cultural festivals throughout the year. One of the most significant festivals is Eid al-Fitr, which marks the end of Ramadan and is celebrated with great enthusiasm. Pohela Boishakh, the Bengali New Year, is another major festival celebrated with colorful processions and cultural programs. Durga Puja, a Hindu festival, and Christmas are also observed by the respective communities."
+      },
+      {
+        "id": 2,
+        "sender": "participant1",
+        "text": "That's wonderful! Can you tell me about the economy of Bangladesh?"
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "Bangladesh has experienced significant economic growth in recent years. The economy is primarily driven by the agriculture sector, which employs a large portion of the population. Garments and textiles, pharmaceuticals, and IT services are also important contributors. The country has made progress in poverty reduction and has attracted foreign investment in sectors like manufacturing and infrastructure."
+      },
+      {
+        "id": 4,
+        "sender": "participant1",
+        "text": "Thank you for sharing that! Can you tell me about the transportation system in Bangladesh?"
+      },
+      {
+        "id": 5,
+        "sender": "participant2",
+        "text": "Bangladesh has a varied transportation system that includes road, rail, air, and waterways. Buses and private cars are common modes of transport within cities and towns. Trains connect major cities, and domestic flights operate between major airports. The extensive river network in Bangladesh is also utilized for transportation, with ferries being an important mode of travel, particularly in rural areas."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+    {
+    "dialog_id": "0x014",
+    "dialog": [
+      { "id": 4, "sender": "participant1", "text": "That sounds amazing! Can you tell me about the education system in Bangladesh?" },
+      {
+        "id": 5,
+        "sender": "participant2",
+        "text": "The education system in Bangladesh is primarily divided into four levels: primary, secondary, higher secondary, and tertiary education. Primary and secondary education are compulsory and free. The country has numerous public and private schools, colleges, and universities. Dhaka University, established in 1921, is the oldest and most prestigious university in Bangladesh. The education system emphasizes both traditional academic subjects and vocational training."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+  {
+    "dialog_id": "0x015",
+    "dialog": [
+      { "id": 0, "sender": "participant1", "text": "What are some traditional musical forms in Bangladesh?" },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Bangladesh has a rich musical heritage with several traditional forms. Baul music, characterized by mystic lyrics and soulful melodies, is popular among rural communities. Lalon Geeti is a prominent genre within Baul music. Nazrul Geeti, based on the works of national poet Kazi Nazrul Islam, combines poetry and music. Rabindra Sangeet, the music of Rabindranath Tagore, holds a special place in Bengali culture."
+      },
+      {
+        "id": 2,
+        "sender": "participant1",
+        "text": "That's fascinating! Tell me about the wildlife found in Bangladesh."
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "Bangladesh is home to diverse wildlife. The Sundarbans, a mangrove forest, is known for its Royal Bengal Tigers, crocodiles, and various bird species. The country has several national parks and wildlife sanctuaries, such as Lawachara National Park and Satchari National Park, where you can find different primate species, including the critically endangered Hoolock Gibbon. The rivers of Bangladesh also support a rich aquatic ecosystem."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+    {
+    "dialog_id": "0x016",
+    "dialog": [
+      { "id": 6, "sender": "participant1", "text": "Tell me about the traditional arts and crafts of Bangladesh." },
+      {
+        "id": 7,
+        "sender": "participant2",
+        "text": "Bangladesh has a rich tradition of arts and crafts. One notable craft is Jamdani weaving, which produces intricate and delicate muslin textiles adorned with elaborate designs. Nakshi Kantha, a type of embroidered quilt, showcases skilled needlework and is often passed down through generations. Pottery, terracotta sculpture, and wood carving are also popular traditional crafts. These art forms reflect the cultural heritage and creativity of the Bangladeshi people."
+      },
+      {
+        "id": 8,
+        "sender": "participant1",
+        "text": "I see. Now, let's talk about Bengali literature. It has a long and illustrious history, doesn't it?"
+      },
+      {
+        "id": 9,
+        "sender": "participant2",
+        "text": "Absolutely! Bengali literature is renowned for its rich literary heritage and contributions to world literature. It dates back centuries and has produced many notable writers and poets. Rabindranath Tagore, the first non-European Nobel laureate in Literature, is a towering figure in Bengali literature. His works, including the timeless collection of poems called 'Gitanjali' (Song Offerings), continue to inspire and resonate with readers worldwide. Other influential Bengali authors include Kazi Nazrul Islam, Michael Madhusudan Dutt, and Bankim Chandra Chattopadhyay."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+  {
+    "dialog_id": "0x017",
+    "dialog": [
+      { "id": 0, "sender": "participant1", "text": "Can you tell me about the Language Movement and the birth of Bangladesh?" },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Certainly! The Language Movement in Bangladesh was a significant socio-political movement that took place in the 1950s. It aimed to establish the recognition of the Bengali language as one of the state languages of Pakistan. The movement began on February 21, 1952, when students and activists organized protests and demonstrations demanding the recognition of Bengali as an official language. The movement gained momentum and became a symbol of cultural and linguistic identity for the Bengali-speaking population in East Pakistan."
+      },
+      {
+        "id": 2,
+        "sender": "participant1",
+        "text": "Did the Language Movement lead to any significant developments?"
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "Yes, indeed. The Language Movement played a pivotal role in the struggle for autonomy and ultimately led to the birth of Bangladesh. The movement culminated in the historic events of 21st February 1952, known as 'Ekushey February' or 'Language Martyrs' Day.' The sacrifices made by the language activists during the movement inspired a sense of unity and nationalism among the Bengali-speaking population. Eventually, this paved the way for the broader struggle for independence, which culminated in the formation of the independent state of Bangladesh on 16th December 1971."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+  {
+    "dialog_id": "0x018",
+    "dialog": [
+      { "id": 0, "sender": "participant1", "text": "Tell me about the film industry in Bangladesh and the popularity of Bengali films." },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Bengali cinema, often referred to as 'Dhallywood,' has a vibrant and growing film industry in Bangladesh. Bengali films have gained popularity not only within the country but also among Bengali-speaking communities worldwide. The industry produces a diverse range of films, including commercial entertainers, art-house films, and socially relevant narratives."
+      },
+      {
+        "id": 2,
+        "sender": "participant1",
+        "text": "Are there any renowned directors or actors associated with Bengali cinema?"
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "Absolutely! Bengali cinema has produced many talented directors and actors. Some notable directors include Satyajit Ray, renowned for his critically acclaimed films like 'Pather Panchali' and 'The Apu Trilogy.' Other prominent directors include Ritwik Ghatak, Mrinal Sen, and Tareque Masud. In terms of actors, legends like Uttam Kumar and Suchitra Sen have made significant contributions to Bengali cinema. Today, actors like Shakib Khan, Nusrat Jahan, and Prosenjit Chatterjee are popular and well-regarded in the industry."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+    {
+    "dialog_id": "0x019",
+    "dialog": [
+      { "id": 0, "sender": "participant1", "text": "Can you tell me about the famous ports of Bangladesh?" },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Certainly! Bangladesh has several important ports that play a crucial role in the country's economy and trade. One of the most notable ports is the Port of Chittagong, located on the southeastern coast of Bangladesh. It is the largest and busiest port in the country, handling a significant volume of international trade and serving as a vital gateway for imports and exports."
+      },
+      {
+        "id": 2,
+        "sender": "participant1",
+        "text": "Are there any other significant ports in Bangladesh?"
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "Yes, besides the Port of Chittagong, there are other important ports as well. The Port of Mongla, located on the southwestern coast, is another significant port in Bangladesh. It serves as a vital link for trade and commerce, particularly for goods destined for the southern and southwestern regions of the country. These ports contribute significantly to Bangladesh's maritime trade and serve as important economic hubs."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+    {
+    "dialog_id": "0x020",
+    "dialog": [
+      { "id": 0, "sender": "participant1", "text": "Tell me about Dhaka city, the capital of Bangladesh." },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Dhaka is the vibrant capital city of Bangladesh, known for its rich history, bustling streets, and cultural heritage. It is one of the most populous cities in the world and serves as the political, economic, and cultural center of the country. Dhaka offers a unique blend of old and new, where ancient traditions coexist with modern developments."
+      },
+      {
+        "id": 2,
+        "sender": "participant1",
+        "text": "What are some of the notable attractions in Dhaka?"
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "Dhaka is home to numerous historical and cultural landmarks. The Lalbagh Fort, dating back to the 17th century, is a must-visit site with its intricate architecture and serene surroundings. The National Parliament House, designed by renowned architect Louis Kahn, is an iconic symbol of modern architecture. Other notable attractions include the Dhakeshwari Temple, Ahsan Manzil, and the Liberation War Museum, which provides insights into Bangladesh's struggle for independence."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+  {
+    "dialog_id": "0x021",
+    "dialog": [
+      { "id": 0, "sender": "participant1", "text": "Tell me about Chittagong city in Bangladesh." },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Chittagong, also known as Chattogram, is a vibrant city located on the southeastern coast of Bangladesh. It is the second-largest city in the country and serves as a major seaport and industrial hub. Chittagong is surrounded by scenic hills and offers a unique blend of natural beauty, historical landmarks, and cultural attractions."
+      },
+      {
+        "id": 2,
+        "sender": "participant1",
+        "text": "What are some of the notable attractions in Chittagong?"
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "Chittagong has several notable attractions that cater to different interests. The historic landmark of the Chittagong War Cemetery commemorates the soldiers who lost their lives during World War II. The Ethnological Museum provides insights into the diverse cultural heritage of the region. Additionally, the beautiful Patenga Beach and Foy's Lake are popular recreational spots where visitors can relax and enjoy scenic views. The Ship Breaking Yards in Sitakunda are also fascinating to witness, showcasing the industry's unique aspect."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+    {
+    "dialog_id": "0x022",
+    "dialog": [
+      { "id": 0, "sender": "participant1", "text": "Tell me about Rajshahi city in Bangladesh." },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Rajshahi is a historic city located in the northwest region of Bangladesh. It is known for its rich cultural heritage, educational institutions, and agricultural significance. Rajshahi is often referred to as the 'Silk City' due to its thriving silk industry."
+      },
+      {
+        "id": 2,
+        "sender": "participant1",
+        "text": "What are some of the notable attractions in Rajshahi?"
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "Rajshahi offers several attractions that showcase its historical and cultural significance. The Varendra Research Museum is a renowned museum housing artifacts and archaeological finds from the region. The Bagha Mosque, Kantajew Temple, and Puthia Rajbari are stunning examples of architecture and religious heritage. The serene Padma Garden and the beautiful banks of the Padma River provide opportunities for relaxation and scenic views."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+  {
+    "dialog_id": "0x023",
+    "dialog": [
+      { "id": 0, "sender": "participant1", "text": "Tell me about Khulna city in Bangladesh." },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Khulna is a major industrial and commercial city located in the southwestern part of Bangladesh. It serves as an important economic hub and is known for its thriving jute industry. Khulna is also the gateway to the Sundarbans, the world's largest mangrove forest and a UNESCO World Heritage Site."
+      },
+      {
+        "id": 2,
+        "sender": "participant1",
+        "text": "What are some of the notable attractions in Khulna?"
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "Khulna offers several attractions that showcase the region's natural beauty and cultural heritage. The Sundarbans National Park is a major highlight, known for its diverse wildlife, including the Royal Bengal Tigers. The Sixty Dome Mosque in Bagerhat, a UNESCO World Heritage Site, is a stunning example of medieval Islamic architecture. The Khulna Royal Bengal Club is a popular recreational spot where visitors can enjoy various sports and activities."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+  {
+    "dialog_id": "0x024",
+    "dialog": [
+      { "id": 0, "sender": "participant1", "text": "Tell me about Barisal city in Bangladesh." },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Barisal, also known as the 'Venice of the East,' is a city located in the southern part of Bangladesh. It is famous for its network of canals, lush greenery, and scenic beauty. Barisal is an important center for trade, education, and culture in the region."
+      },
+      {
+        "id": 2,
+        "sender": "participant1",
+        "text": "What are some of the notable attractions in Barisal?"
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "Barisal offers several attractions that captivate visitors. The beauty of the floating guava market, where vendors sell guavas from their boats, is a unique experience. The Durga Sagar, a large lake surrounded by temples, is a popular spot for boating and relaxation. The Barisal Divisional Museum showcases the history and cultural heritage of the region. Additionally, the Kuakata Beach, located nearby, offers breathtaking views of the sunrise and sunset over the Bay of Bengal."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+  {
+    "dialog_id": "0x025",
+    "dialog": [
+      { "id": 0, "sender": "participant1", "text": "Tell me about Sylhet city in Bangladesh." },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Sylhet is a city located in northeastern Bangladesh, known for its natural beauty, tea gardens, and spiritual significance. It is surrounded by rolling hills, lush green forests, and scenic landscapes. Sylhet is often referred to as the 'Land of Two Leaves and a Bud' due to its extensive tea plantations."
+      },
+      {
+        "id": 2,
+        "sender": "participant1",
+        "text": "What are some of the notable attractions in Sylhet?"
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "Sylhet offers several attractions that showcase its natural and cultural treasures. The Ratargul Swamp Forest, a freshwater swamp forest and the only swamp forest in Bangladesh, is a must-visit for nature enthusiasts. The Jaflong and Tamabil areas are known for their scenic beauty, with crystal clear rivers and breathtaking views of the hills. The Shahjalal Shrine and the Shahi Eidgah Mosque are important religious sites in Sylhet."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+  {
+    "dialog_id": "0x026",
+    "dialog": [
+      { "id": 0, "sender": "participant1", "text": "Tell me about Rangpur city in Bangladesh." },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Rangpur is a city located in the northern part of Bangladesh. It is the administrative center of the Rangpur Division. Rangpur is known for its historical and cultural heritage, as well as its agricultural significance. The city is surrounded by lush green landscapes and is a gateway to the beautiful rural areas of northern Bangladesh."
+      },
+      {
+        "id": 2,
+        "sender": "participant1",
+        "text": "What are some of the notable attractions in Rangpur?"
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "Rangpur offers several attractions that showcase its rich history and natural beauty. The Tajhat Palace, a magnificent 19th-century mansion, is a major architectural landmark. The Rangpur Museum houses a collection of artifacts and relics from the region. The Kellabondhu Mosque and Carmichael College are other notable landmarks in the city. Additionally, Rangpur is known for its vibrant agricultural fairs and festivals, which attract visitors from far and wide."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+  {
+    "dialog_id": "0x027",
+    "dialog": [
+      { "id": 0, "sender": "participant1", "text": "Tell me about Mymensingh city in Bangladesh." },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Mymensingh is a city located in central Bangladesh, known for its rich cultural heritage, educational institutions, and agricultural importance. It is often called the 'City of Education' due to the presence of several renowned educational establishments. Mymensingh is surrounded by picturesque landscapes and is characterized by its tranquil atmosphere."
+      },
+      {
+        "id": 2,
+        "sender": "participant1",
+        "text": "What are some of the notable attractions in Mymensingh?"
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "Mymensingh offers several attractions that reflect its cultural and natural treasures. The Shashi Lodge, an exquisite architectural marvel from the British colonial era, is a must-visit. The Mymensingh Museum showcases a collection of artifacts, including ancient sculptures and relics. The Brahmaputra River, which flows through the city, offers scenic views and opportunities for boating. Additionally, Mymensingh is known for its traditional art and craft, including pottery and weaving."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+    {
+    "dialog_id": "0x028",
+    "dialog": [
+      { "id": 0, "sender": "participant1", "text": "Tell me about the universities in Bangladesh." },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Bangladesh is home to several prestigious universities that offer quality education in various fields. Some of the notable universities include:"
+      },
+      {
+        "id": 2,
+        "sender": "participant2",
+        "text": "- University of Dhaka: Established in 1921, it is the oldest and one of the most renowned universities in Bangladesh."
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "- Bangladesh University of Engineering and Technology (BUET): A leading institution for engineering and architecture studies."
+      },
+      {
+        "id": 4,
+        "sender": "participant2",
+        "text": "- Bangladesh Agricultural University (BAU): Known for its agricultural and veterinary sciences programs."
+      },
+      {
+        "id": 5,
+        "sender": "participant2",
+        "text": "- Jahangirnagar University: Situated in Savar, it offers a wide range of academic disciplines."
+      },
+      {
+        "id": 6,
+        "sender": "participant2",
+        "text": "- University of Chittagong: Located in Chittagong, it is one of the largest universities in Bangladesh."
+      },
+      {
+        "id": 7,
+        "sender": "participant2",
+        "text": "- Rajshahi University: Situated in Rajshahi, it is known for its academic excellence and beautiful campus."
+      },
+      {
+        "id": 8,
+        "sender": "participant2",
+        "text": "- Khulna University of Engineering & Technology (KUET): A leading engineering and technology university located in Khulna."
+      },
+      {
+        "id": 9,
+        "sender": "participant1",
+        "text": "Are there any other specialized universities in Bangladesh?"
+      },
+      {
+        "id": 10,
+        "sender": "participant2",
+        "text": "Yes, Bangladesh also has specialized universities catering to specific fields. These include medical universities like Bangabandhu Sheikh Mujib Medical University (BSMMU) and dental universities like Dhaka Dental College. There are also universities dedicated to the fields of agriculture, business, and more."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+    {
+    "dialog_id": "0x029",
+    "dialog": [
+      { "id": 0, "sender": "participant1", "text": "What are some of the national elements of Bangladesh?" },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Bangladesh has several national elements that hold significant cultural and historical importance. Some of these include:"
+      },
+      {
+        "id": 2,
+        "sender": "participant2",
+        "text": "- National Flag: The flag of Bangladesh consists of a green background with a red circle in the center, symbolizing the rising sun."
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "- National Anthem: The national anthem of Bangladesh is 'Amar Sonar Bangla,' written by Rabindranath Tagore."
+      },
+      {
+        "id": 4,
+        "sender": "participant2",
+        "text": "- National Flower: The national flower is the Shapla (Water Lily), representing purity and beauty."
+      },
+      {
+        "id": 5,
+        "sender": "participant2",
+        "text": "- National Animal: The national animal of Bangladesh is the Royal Bengal Tiger, symbolizing strength and grace."
+      },
+      {
+        "id": 6,
+        "sender": "participant2",
+        "text": "- National Bird: The national bird is the Doel (Oriental Magpie Robin), known for its melodious song."
+      },
+      {
+        "id": 7,
+        "sender": "participant2",
+        "text": "- National Fruit: The national fruit is the Jackfruit, considered the largest fruit in the world."
+      },
+      {
+        "id": 8,
+        "sender": "participant1",
+        "text": "Are there any other national elements in Bangladesh?"
+      },
+      {
+        "id": 9,
+        "sender": "participant2",
+        "text": "Yes, Bangladesh also has a national fish, which is the Hilsa, and a national game, which is Kabaddi. These national elements reflect the cultural diversity and rich heritage of Bangladesh."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+  {
+    "dialog_id": "0x030",
+    "dialog": [
+      { "id": 0, "sender": "participant1", "text": "Tell me about the people of Bangladesh." },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "The people of Bangladesh, commonly known as Bangladeshis, are warm, friendly, and hospitable. They come from diverse ethnic, cultural, and religious backgrounds, creating a vibrant and inclusive society."
+      },
+      {
+        "id": 2,
+        "sender": "participant2",
+        "text": "The majority of Bangladeshis are ethnically Bengali, with the Bengali language being widely spoken. However, there are also several ethnic minority groups, such as the Chakma, Garo, and Bihari, among others."
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "Bangladeshis are known for their resilience and hardworking nature. They engage in various occupations, including agriculture, industry, trade, education, and more. The country has produced talented individuals who have excelled in different fields."
+      },
+      {
+        "id": 4,
+        "sender": "participant2",
+        "text": "The people of Bangladesh value their traditions, customs, and festivals. They celebrate occasions like Eid-ul-Fitr, Durga Puja, Pohela Boishakh (Bengali New Year), and Language Martyrs' Day with great enthusiasm and cultural pride."
+      },
+      {
+        "id": 5,
+        "sender": "participant2",
+        "text": "Hospitality is deeply rooted in Bangladeshi culture, and guests are treated with utmost respect and care. Sharing meals and offering tea or snacks as a gesture of hospitality is a common practice."
+      },
+      {
+        "id": 6,
+        "sender": "participant1",
+        "text": "That's fascinating! Bangladeshis sound like wonderful people."
+      },
+      {
+        "id": 7,
+        "sender": "participant2",
+        "text": "Indeed, Bangladeshis are known for their warmth and generosity. Interacting with them will give you a glimpse into the rich culture and traditions of the country."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },  
+  {
+    "dialog_id": "0x031",
+    "dialog": [
+      { "id": 0, "sender": "participant1", "text": "What are the major export industries in Bangladesh?" },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Bangladesh has a diverse range of export industries that contribute significantly to its economy. Some of the major export industries include:"
+      },
+      {
+        "id": 2,
+        "sender": "participant2",
+        "text": "- Ready-Made Garments (RMG): The RMG sector is the largest export industry in Bangladesh, producing clothing and textile products for global markets."
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "- Textiles: Apart from RMG, Bangladesh exports various textile products, including yarn, fabric, and home textiles."
+      },
+      {
+        "id": 4,
+        "sender": "participant2",
+        "text": "- Jute and Jute Goods: Bangladesh is known for its jute industry, exporting jute fibers, yarns, sacks, and other jute-based products."
+      },
+      {
+        "id": 5,
+        "sender": "participant2",
+        "text": "- Leather and Leather Goods: The country has a thriving leather industry, exporting high-quality leather products like shoes, bags, and garments."
+      },
+      {
+        "id": 6,
+        "sender": "participant2",
+        "text": "- Pharmaceuticals: Bangladesh has a growing pharmaceutical industry that exports generic medicines and pharmaceutical products to various countries."
+      },
+      {
+        "id": 7,
+        "sender": "participant2",
+        "text": "- Agricultural Products: Bangladesh exports a range of agricultural products, including frozen food, tea, spices, fruits, and vegetables."
+      },
+      {
+        "id": 8,
+        "sender": "participant1",
+        "text": "That's impressive! These export industries contribute greatly to Bangladesh's economy."
+      },
+      {
+        "id": 9,
+        "sender": "participant2",
+        "text": "Absolutely! The export industries play a vital role in employment generation and foreign exchange earnings, making Bangladesh a competitive player in the global market."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+  {
+    "dialog_id": "0x032",
+    "dialog": [
+      { "id": 0, "sender": "participant1", "text": "Tell me about the government of Bangladesh." },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "The government of Bangladesh operates under a parliamentary democracy system. It is a unitary state with a multi-party political system."
+      },
+      {
+        "id": 2,
+        "sender": "participant2",
+        "text": "The President of Bangladesh serves as the head of state, while the Prime Minister is the head of government. The President is elected by the members of the parliament and holds a ceremonial role."
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "The Prime Minister, on the other hand, is the leader of the majority party in the parliament and exercises executive power. The Prime Minister is responsible for the day-to-day administration of the country."
+      },
+      {
+        "id": 4,
+        "sender": "participant2",
+        "text": "The parliament of Bangladesh, known as the Jatiya Sangsad, is a unicameral legislature consisting of 350 members. They are elected through a general election held every five years."
+      },
+      {
+        "id": 5,
+        "sender": "participant2",
+        "text": "The government of Bangladesh is responsible for various aspects, including policymaking, law enforcement, economic planning, and social welfare programs."
+      },
+      {
+        "id": 6,
+        "sender": "participant1",
+        "text": "That's interesting! It's good to know about the structure and functioning of the government in Bangladesh."
+      },
+      {
+        "id": 7,
+        "sender": "participant2",
+        "text": "Indeed! The government plays a crucial role in ensuring the welfare and development of the country, and it strives to uphold democratic values and serve the interests of the people."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+  {
+    "dialog_id": "0x033",
+    "dialog": [
+      { "id": 0, "sender": "participant1", "text": "What are some common greetings in Bangladesh?" },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "In Bangladesh, people commonly greet each other with warm and respectful expressions. Some of the common greetings include:"
+      },
+      {
+        "id": 2,
+        "sender": "participant2",
+        "text": "- Assalamualaikum: This is a traditional Islamic greeting meaning 'Peace be upon you.' It is widely used among Muslims."
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "- Namaste: Derived from the Sanskrit language, Namaste is a respectful greeting used in both Hindu and Buddhist communities."
+      },
+      {
+        "id": 4,
+        "sender": "participant2",
+        "text": "- Adaab: This is a traditional greeting used to show respect. It is more commonly used in formal settings."
+      },
+      {
+        "id": 5,
+        "sender": "participant2",
+        "text": "- Shubho Jonmodin: This is the Bengali phrase for 'Happy Birthday' and is used to wish someone on their birthday."
+      },
+      {
+        "id": 6,
+        "sender": "participant2",
+        "text": "- Good morning/afternoon/evening: These English greetings are also commonly used in more informal settings."
+      },
+      {
+        "id": 7,
+        "sender": "participant1",
+        "text": "Thank you for sharing! It's nice to know about the different ways people greet each other in Bangladesh."
+      },
+      {
+        "id": 8,
+        "sender": "participant2",
+        "text": "You're welcome! Greetings play an important role in our culture, fostering a sense of connection and respect among individuals."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+  {
+    "dialog_id": "0x034",
+    "dialog": [
+      { "id": 0, "sender": "participant1", "text": "What are some common greetings among people?" },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "There are various common greetings used by people around the world to greet each other. Some of the most common ones include:"
+      },
+      {
+        "id": 2,
+        "sender": "participant2",
+        "text": "- Hello: This is a widely used greeting in English and is used to greet someone in a formal or informal setting."
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "- Hi: Similar to 'Hello,' 'Hi' is a more casual and informal way to greet someone."
+      },
+      {
+        "id": 4,
+        "sender": "participant2",
+        "text": "- Bonjour: This is the French word for 'Hello' and is commonly used in French-speaking countries."
+      },
+      {
+        "id": 5,
+        "sender": "participant2",
+        "text": "- Hola: This is the Spanish word for 'Hello' and is used in Spanish-speaking countries."
+      },
+      {
+        "id": 6,
+        "sender": "participant2",
+        "text": "- Salam: Derived from Arabic, 'Salam' means 'Peace' and is used as a greeting in many Muslim-majority countries."
+      },
+      {
+        "id": 7,
+        "sender": "participant1",
+        "text": "Thank you for sharing! It's interesting to see how greetings vary across different languages and cultures."
+      },
+      {
+        "id": 8,
+        "sender": "participant2",
+        "text": "You're welcome! Greetings are a way to show politeness, acknowledge someone's presence, and initiate a conversation."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+  {
+    "dialog_id": "0x035",
+    "dialog": [
+      { "id": 0, "sender": "participant1", "text": "What are some common farewell greetings?" },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "When saying goodbye or bidding farewell, people often use different expressions. Here are some common farewell greetings:"
+      },
+      {
+        "id": 2,
+        "sender": "participant2",
+        "text": "- Goodbye: This is a widely used farewell phrase in English and is considered a more formal way to say goodbye."
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "- Bye: This is a shorter and more casual way to bid farewell to someone."
+      },
+      {
+        "id": 4,
+        "sender": "participant2",
+        "text": "- Take care: This expression is used to wish someone well and to remind them to take care of themselves."
+      },
+      {
+        "id": 5,
+        "sender": "participant2",
+        "text": "- See you later: This phrase is used when you expect to see the person again in the near future."
+      },
+      {
+        "id": 6,
+        "sender": "participant2",
+        "text": "- Farewell: This is a more formal and sometimes poetic way to say goodbye, often used in special occasions."
+      },
+      {
+        "id": 7,
+        "sender": "participant1",
+        "text": "Thank you for sharing! It's helpful to know the different ways we can say goodbye to someone."
+      },
+      {
+        "id": 8,
+        "sender": "participant2",
+        "text": "You're welcome! Farewell greetings provide a polite and respectful way to end a conversation or part ways."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+  {
+    "dialog_id": "0x036",
+    "dialog": [
+      { "id": 0, "sender": "participant1", "text": "Where is Bangladesh located geographically?" },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Bangladesh is located in South Asia. It is bordered by India to the west, north, and east, and by Myanmar (formerly known as Burma) to the southeast. It has a coastline along the Bay of Bengal to the south."
+      },
+      {
+        "id": 2,
+        "sender": "participant1",
+        "text": "That's interesting! With its location between India and Myanmar, Bangladesh must have a unique blend of cultural influences."
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "Absolutely! Bangladesh has a rich cultural heritage influenced by various factors, including its geographic location and historical interactions with neighboring countries."
+      },
+      {
+        "id": 4,
+        "sender": "participant2",
+        "text": "Its proximity to the Bay of Bengal also plays a significant role in shaping the country's climate, agriculture, and natural resources."
+      },
+      {
+        "id": 5,
+        "sender": "participant1",
+        "text": "I see. Thank you for providing an overview of Bangladesh's geographic location and its impact on the country's culture and environment."
+      },
+      {
+        "id": 6,
+        "sender": "participant2",
+        "text": "You're welcome! Geography plays a vital role in shaping a country's identity, and Bangladesh's location contributes to its unique characteristics."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+  {
+    "dialog_id": "0x037",
+    "dialog": [
+      { "id": 0, "sender": "participant1", "text": "Tell me about the tea industry in Bangladesh." },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "The tea industry in Bangladesh is an important agricultural sector and a significant contributor to the country's economy. Tea cultivation and production have a long history in the region, dating back to the British colonial era."
+      },
+      {
+        "id": 2,
+        "sender": "participant2",
+        "text": "Bangladesh is known for producing high-quality tea, particularly black tea. The major tea-growing regions include Sylhet, Chittagong, and the northeastern hilly areas of the country."
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "Tea gardens in Bangladesh are often picturesque with lush greenery and rolling hills. The favorable climate, fertile soil, and adequate rainfall in these regions provide ideal conditions for tea cultivation."
+      },
+      {
+        "id": 4,
+        "sender": "participant1",
+        "text": "That's fascinating! Is tea production mainly for domestic consumption or is Bangladesh also a significant exporter of tea?"
+      },
+      {
+        "id": 5,
+        "sender": "participant2",
+        "text": "Bangladesh is both a consumer and exporter of tea. While a significant portion of the tea is consumed domestically, the country also exports tea to various international markets. The tea industry plays a vital role in generating foreign exchange earnings for Bangladesh."
+      },
+      {
+        "id": 6,
+        "sender": "participant1",
+        "text": "I appreciate the information! The tea industry sounds like a significant sector in Bangladesh's agriculture and economy."
+      },
+      {
+        "id": 7,
+        "sender": "participant2",
+        "text": "Indeed, the tea industry not only contributes to the economy but also provides employment opportunities for many people, particularly in the tea gardens and processing facilities."
+      },
+      {
+        "id": 8,
+        "sender": "participant2",
+        "text": "Tea from Bangladesh is recognized for its distinctive flavor and quality, making it a valued commodity in the global tea market."
+      },
+      {
+        "id": 9,
+        "sender": "participant1",
+        "text": "Thank you for sharing these insights into the tea industry of Bangladesh. I now have a better understanding of its significance."
+      },
+      {
+        "id": 10,
+        "sender": "participant2",
+        "text": "You're welcome! If you have any more questions, feel free to ask. Tea is an integral part of Bangladesh's culture and economy."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+  {
+    "dialog_id": "0x038",
+    "dialog": [
+      { "id": 0, "sender": "participant1", "text": "Let's talk about female education. How has it evolved in Bangladesh?" },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Female education in Bangladesh has witnessed significant progress and transformation over the years. In the past, access to education for girls was limited, but efforts have been made to address this issue."
+      },
+      {
+        "id": 2,
+        "sender": "participant2",
+        "text": "The government of Bangladesh has implemented various initiatives to promote and ensure equal educational opportunities for girls. This includes the establishment of schools and colleges specifically for girls and the introduction of scholarships and incentives to encourage female enrollment."
+      },
+      {
+        "id": 3,
+        "sender": "participant1",
+        "text": "That's great to hear! How has the increase in female education impacted society and the overall development of Bangladesh?"
+      },
+      {
+        "id": 4,
+        "sender": "participant2",
+        "text": "The rise in female education has had a positive impact on various aspects of Bangladeshi society. Educated women are more likely to contribute to the workforce, participate in decision-making processes, and become agents of change in their communities."
+      },
+      {
+        "id": 5,
+        "sender": "participant2",
+        "text": "Furthermore, educated women tend to have better health outcomes, lower fertility rates, and are more empowered to break the cycle of poverty. They play a crucial role in the socio-economic development of the country."
+      },
+      {
+        "id": 6,
+        "sender": "participant1",
+        "text": "That's incredible! It's inspiring to see the positive impact of female education on both individuals and society as a whole."
+      },
+      {
+        "id": 7,
+        "sender": "participant2",
+        "text": "Absolutely! The progress made in female education is a testament to the determination and resilience of girls and women in Bangladesh. It also reflects the commitment of the government and various organizations to ensure gender equality in education."
+      },
+      {
+        "id": 8,
+        "sender": "participant2",
+        "text": "There is still work to be done to overcome remaining challenges and ensure that every girl in Bangladesh has access to quality education. However, the strides made so far are encouraging and lay a strong foundation for a brighter future."
+      },
+      {
+        "id": 9,
+        "sender": "participant1",
+        "text": "Thank you for sharing this information on the evolution and impact of female education in Bangladesh. It's truly inspiring."
+      },
+      {
+        "id": 10,
+        "sender": "participant2",
+        "text": "You're welcome! Education is a powerful tool for empowerment, and the progress in female education in Bangladesh is a step towards a more inclusive and equitable society."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+  {
+    "dialog_id": "0x039",
+    "dialog": [
+      { "id": 0, "sender": "participant1", "text": "Let's discuss transportation in Bangladesh. What are the main modes of transportation in the country?" },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Bangladesh has a diverse range of transportation options. The most common modes of transportation include road, rail, waterways, air transport, and rickshaws."
+      },
+      {
+        "id": 2,
+        "sender": "participant2",
+        "text": "Road transport is the most widely used mode, with an extensive network of highways, roads, and bus services connecting various parts of the country. Buses, minibusses, and taxis are commonly used for commuting within cities and intercity travel."
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "One unique feature of transportation in Bangladesh is the widespread use of rickshaws. Rickshaws are three-wheeled vehicles, manually operated by pullers, and are a popular mode of transportation in urban areas, particularly for short distances and crowded streets."
+      },
+      {
+        "id": 4,
+        "sender": "participant1",
+        "text": "That's interesting. They must contribute to the vibrant street culture in the cities."
+      },
+      {
+        "id": 5,
+        "sender": "participant2",
+        "text": "Absolutely! Rickshaws not only provide an affordable and convenient means of transportation but also add a unique charm to the streets. They are often beautifully decorated and showcase the artistic creativity of the rickshaw pullers."
+      },
+      {
+        "id": 6,
+        "sender": "participant1",
+        "text": "What about rail transport? Is it well-developed in Bangladesh?"
+      },
+      {
+        "id": 7,
+        "sender": "participant2",
+        "text": "Yes, rail transport is an important mode of transportation in Bangladesh. The Bangladesh Railway operates a network of railway lines that connect major cities and towns across the country. Trains provide a convenient and affordable option for both passenger and freight transport."
+      },
+      {
+        "id": 8,
+        "sender": "participant2",
+        "text": "Waterways also play a crucial role in transportation, especially in the southern region of Bangladesh. Rivers and canals serve as important water transport routes, and ferries are commonly used for crossing rivers and connecting different areas."
+      },
+      {
+        "id": 9,
+        "sender": "participant1",
+        "text": "That's fascinating. What about air transport? Are there well-connected airports in Bangladesh?"
+      },
+      {
+        "id": 10,
+        "sender": "participant2",
+        "text": "Yes, Bangladesh has several domestic and international airports. The main international airport is Hazrat Shahjalal International Airport in Dhaka, which serves as a major gateway for air travel. Other cities like Chittagong and Sylhet also have airports connecting them with domestic and international destinations."
+      },
+      {
+        "id": 11,
+        "sender": "participant2",
+        "text": "Overall, the transportation infrastructure in Bangladesh continues to develop and expand, providing various options for people to travel within the country and connect with the rest of the world."
+      },
+	        {
+        "id": 12,
+        "sender": "participant1",
+        "text": "Thank you for sharing this overview of transportation in Bangladesh. It's interesting to learn about the different modes and their significance."
+      },
+      {
+        "id": 13,
+        "sender": "participant2",
+        "text": "You're welcome! Transportation plays a vital role in connecting people and facilitating economic growth. It's an essential aspect of any country's development."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+  {
+    "dialog_id": "0x040",
+    "dialog": [
+      { "id": 0, "sender": "participant1", "text": "Let's talk about domestic fruits and vegetables in Bangladesh. What are some popular ones?" },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Bangladesh is blessed with a rich variety of fruits and vegetables. Some of the popular domestic fruits include mangoes, bananas, jackfruits, papayas, guavas, and pineapples."
+      },
+      {
+        "id": 2,
+        "sender": "participant2",
+        "text": "Mangoes are highly regarded and considered the king of fruits in Bangladesh. They come in different varieties, such as Langra, Himsagar, and Fazli, and are known for their sweet and juicy taste."
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "Bananas are another widely consumed fruit in Bangladesh. They are available in various types, including the popular Robusta and Cavendish varieties. Bananas are not only delicious but also a good source of energy."
+      },
+      {
+        "id": 4,
+        "sender": "participant1",
+        "text": "What about vegetables? Which ones are commonly grown and consumed?"
+      },
+      {
+        "id": 5,
+        "sender": "participant2",
+        "text": "Bangladesh has a diverse range of vegetables that are grown and consumed throughout the country. Some popular vegetables include potatoes, tomatoes, onions, spinach, eggplants, beans, and carrots."
+      },
+      {
+        "id": 6,
+        "sender": "participant2",
+        "text": "Potatoes are a staple vegetable and widely used in various dishes. Tomatoes and onions are essential ingredients in many Bangladeshi recipes, adding flavor and aroma to the cuisine."
+      },
+      {
+        "id": 7,
+        "sender": "participant2",
+        "text": "Leafy greens like spinach are packed with nutrients and commonly used in curries and stir-fries. Eggplants, known as 'begun' in Bengali, are also popular and used in dishes like bharta and curry preparations."
+      },
+      {
+        "id": 8,
+        "sender": "participant1",
+        "text": "That's wonderful. It sounds like there's a wide variety of fresh produce available in Bangladesh."
+      },
+      {
+        "id": 9,
+        "sender": "participant2",
+        "text": "Indeed! Bangladesh's fertile land and favorable climate make it ideal for cultivating a diverse range of fruits and vegetables. People here enjoy the freshness and flavors of locally grown produce."
+      },
+      {
+        "id": 10,
+        "sender": "participant2",
+        "text": "Additionally, many seasonal fruits and vegetables are celebrated during festivals and special occasions, highlighting their cultural significance in Bangladeshi cuisine."
+      },
+      {
+        "id": 11,
+        "sender": "participant1",
+        "text": "That's fascinating. I would love to try some of these fruits and vegetables when I visit Bangladesh."
+      },
+      {
+        "id": 12,
+        "sender": "participant2",
+        "text": "You definitely should! It's a delightful experience to savor the fresh and vibrant flavors of the domestic fruits and vegetables here."
+      }
+	 ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+  {
+    "dialog_id": "0x041",
+    "dialog": [
+      { "id": 0, "sender": "participant1", "text": "Let's discuss the issue of floods in Bangladesh. How significant are floods in the country?" },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Floods are a major natural disaster in Bangladesh due to heavy rainfall and the presence of large rivers. They have significant social, economic, and environmental impacts."
+      },
+      {
+        "id": 2,
+        "sender": "participant1",
+        "text": "How do these floods impact the people and the economy of Bangladesh?"
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "Floods displace people, damage homes, destroy crops, and cause economic setbacks. Vulnerable communities are hit the hardest, leading to human suffering and economic losses."
+      },
+      {
+        "id": 4,
+        "sender": "participant1",
+        "text": "How does the government and the people of Bangladesh deal with these floods?"
+      },
+      {
+        "id": 5,
+        "sender": "participant2",
+        "text": "Bangladesh invests in infrastructure, early warning systems, and relief efforts to mitigate the impact of floods. Long-term strategies include river dredging, afforestation, and sustainable agriculture practices."
+      },
+      {
+        "id": 6,
+        "sender": "participant1",
+        "text": "That's insightful. Thank you for sharing the information."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+  {
+    "dialog_id": "0x042",
+    "dialog": [
+      { "id": 0, "sender": "participant1", "text": "I'd like to learn more about cyclones in Bangladesh. How frequently do they occur?" },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Cyclones are quite common in Bangladesh, especially in the coastal regions. They are influenced by the Bay of Bengal and typically occur during the pre-monsoon and post-monsoon seasons."
+      },
+      {
+        "id": 2,
+        "sender": "participant1",
+        "text": "What are some of the most severe cyclones that have affected Bangladesh?"
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "Bangladesh has experienced devastating cyclones in its history. Some notable ones include the Bhola cyclone in 1970 and the Sidr cyclone in 2007, which caused significant loss of life and extensive damage to infrastructure."
+      },
+      {
+        "id": 4,
+        "sender": "participant1",
+        "text": "How does Bangladesh prepare for cyclones and mitigate their impact?"
+      },
+      {
+        "id": 5,
+        "sender": "participant2",
+        "text": "The government and various organizations in Bangladesh have implemented measures such as early warning systems, evacuation plans, cyclone shelters, and community preparedness programs to minimize the impact of cyclones. These efforts have helped save lives and reduce the damage caused by cyclones."
+      },
+      {
+        "id": 6,
+        "sender": "participant1",
+        "text": "That's interesting. It's important to be prepared for such natural disasters. Thank you for sharing."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+  {
+    "dialog_id": "0x043",
+    "dialog": [
+      { "id": 0, "sender": "participant1", "text": "I've heard about load shedding in Bangladesh. Can you tell me more about it?" },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Load shedding refers to the deliberate and temporary power outage or reduction in electricity supply in certain areas. It is implemented by the authorities to manage the demand and supply of electricity during periods of high demand or shortage of power generation."
+      },
+      {
+        "id": 2,
+        "sender": "participant1",
+        "text": "Why does load shedding occur in Bangladesh?"
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "Load shedding in Bangladesh is primarily caused by the insufficient power generation capacity to meet the ever-increasing demand for electricity. Factors such as population growth, industrialization, and infrastructural limitations contribute to the electricity shortfall."
+      },
+      {
+        "id": 4,
+        "sender": "participant1",
+        "text": "How does load shedding affect the daily lives of people in Bangladesh?"
+      },
+      {
+        "id": 5,
+        "sender": "participant2",
+        "text": "Load shedding can have significant impacts on people's daily lives. It disrupts regular activities, hampers productivity, affects businesses, and can cause inconvenience, particularly during hot weather when air conditioning is essential. However, efforts are being made to improve the power generation and reduce the frequency of load shedding."
+      },
+      {
+        "id": 6,
+        "sender": "participant1",
+        "text": "I see. It must be challenging to cope with power outages. Thank you for explaining."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+  {
+    "dialog_id": "0x044",
+    "dialog": [
+      { "id": 0, "sender": "participant1", "text": "I'm curious about ethnic groups. Can you tell me more about them?" },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Ethnic groups are distinct cultural or social communities that share common characteristics, such as language, heritage, customs, and traditions. They contribute to the rich diversity of cultures worldwide and play a vital role in shaping a society's identity."
+      },
+      {
+        "id": 2,
+        "sender": "participant1",
+        "text": "Are there specific ethnic groups in Bangladesh?"
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "Yes, Bangladesh is a diverse country with several ethnic groups. The largest ethnic group in Bangladesh is the Bengali people, who make up the majority of the population. Additionally, there are various indigenous ethnic groups, such as the Chakma, Garo, Santal, and Bihari communities, each with their own unique culture, language, and traditions."
+      },
+      {
+        "id": 4,
+        "sender": "participant1",
+        "text": "That's fascinating. How do these ethnic groups contribute to the cultural fabric of Bangladesh?"
+      },
+      {
+        "id": 5,
+        "sender": "participant2",
+        "text": "Ethnic groups in Bangladesh play a crucial role in enriching the cultural fabric of the nation. They contribute through their distinct languages, traditional music, dance forms, festivals, handicrafts, and culinary traditions. These diverse ethnic groups foster a sense of unity and promote cultural exchange, making Bangladesh a vibrant and culturally diverse country."
+      },
+      {
+        "id": 6,
+        "sender": "participant1",
+        "text": "I appreciate the cultural richness brought by these ethnic groups. Thank you for sharing."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+  {
+    "dialog_id": "0x045",
+    "dialog": [
+      {
+        "id": 0,
+        "sender": "participant1",
+        "text": "I'm curious about traditional weddings in Bangladesh. Could you tell me more about them?"
+      },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Traditional weddings in Bangladesh are colorful and festive occasions that celebrate the union of two individuals and their families. They are marked by various cultural customs and rituals that differ across different regions and communities."
+      },
+      {
+        "id": 2,
+        "sender": "participant1",
+        "text": "That sounds interesting! Can you give me an example of a typical wedding ceremony?"
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "Certainly! A typical Bengali wedding, also known as 'Biye' or 'Bou Bhat,' usually involves several pre-wedding rituals like the 'Gaye Holud' or turmeric ceremony, where turmeric paste is applied to the couple's bodies for a radiant glow. The main wedding ceremony takes place in the presence of family, relatives, and friends, where the couple exchanges vows and rings."
+      },
+      {
+        "id": 4,
+        "sender": "participant1",
+        "text": "Are there any specific cultural traditions or customs associated with Bengali weddings?"
+      },
+      {
+        "id": 5,
+        "sender": "participant2",
+        "text": "Yes, there are several cultural traditions. For example, the bride typically wears a traditional red and white saree called 'Jamdani' or 'Benarasi.' The groom wears a 'Sherwani' or 'Panjabi' with traditional attire. The 'Mehendi' or henna ceremony is also an important part of Bengali weddings, where intricate henna designs are applied to the bride's hands and feet."
+      },
+      {
+        "id": 6,
+        "sender": "participant1",
+        "text": "That's fascinating! It must be a joyous celebration. Thank you for sharing."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+  {
+    "dialog_id": "0x046",
+    "dialog": [
+      {
+        "id": 0,
+        "sender": "participant1",
+        "text": "I've heard about Bangladesh, but I'm not sure what it's famous for. Can you tell me?"
+      },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Bangladesh is famous for several things! One of its notable features is its stunning natural beauty, with picturesque landscapes, lush greenery, and the world's largest mangrove forest, the Sundarbans. It is also renowned for its rich cultural heritage, vibrant festivals, and traditional arts and crafts."
+      },
+      {
+        "id": 2,
+        "sender": "participant1",
+        "text": "That sounds amazing! Are there any specific attractions or landmarks that are famous in Bangladesh?"
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "Absolutely! Bangladesh is home to numerous fascinating attractions. The historic city of Dhaka, with its bustling markets and ancient landmarks like Lalbagh Fort and Ahsan Manzil, is a must-visit. Cox's Bazar, known for its stunning sandy beaches, is the world's longest natural beach. The archaeological site of Paharpur, a UNESCO World Heritage site, showcases the ruins of an ancient Buddhist monastery."
+      },
+      {
+        "id": 4,
+        "sender": "participant1",
+        "text": "Wow, there's so much to explore! Is there anything else Bangladesh is famous for?"
+      },
+      {
+        "id": 5,
+        "sender": "participant2",
+        "text": "Bangladesh is renowned for its textile and garment industry, being one of the world's leading exporters of textiles and ready-made garments. It is also famous for its delectable cuisine, including mouth-watering dishes like biryani, korma, and various traditional sweets like roshogolla and mishti doi."
+      },
+      {
+        "id": 6,
+        "sender": "participant1",
+        "text": "That's fantastic! I'll definitely keep all of this in mind. Thank you for sharing."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+  {
+    "dialog_id": "0x047",
+    "dialog": [
+      {
+        "id": 0,
+        "sender": "participant1",
+        "text": "I'm curious about the agriculture in Bangladesh. What can you tell me about it?"
+      },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Agriculture plays a significant role in Bangladesh's economy. The country is known for its fertile land and favorable climatic conditions, which make it suitable for various crops. Rice is the staple food, and Bangladesh is one of the world's largest producers of rice. Jute, known as the 'golden fiber,' is another important crop and a major export commodity."
+      },
+      {
+        "id": 2,
+        "sender": "participant1",
+        "text": "That's interesting. Are there any other notable crops or agricultural products in Bangladesh?"
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "Absolutely! Besides rice and jute, Bangladesh also cultivates other crops such as wheat, maize, pulses, sugarcane, tea, and tobacco. The country is known for its mangoes, jackfruits, bananas, and other tropical fruits. Additionally, fisheries and aquaculture contribute significantly to the agricultural sector."
+      },
+      {
+        "id": 4,
+        "sender": "participant1",
+        "text": "It's impressive to see such a diverse range of agricultural products. Does the government support the agriculture sector in Bangladesh?"
+      },
+      {
+        "id": 5,
+        "sender": "participant2",
+        "text": "Yes, the government has implemented various policies and initiatives to support and promote the agriculture sector. These include providing subsidies, agricultural extension services, access to credit, and modern agricultural technologies. Efforts are also made to ensure food security, increase crop productivity, and promote sustainable farming practices."
+      },
+      {
+        "id": 6,
+        "sender": "participant1",
+        "text": "That's great to hear. Agriculture seems to be a vital part of Bangladesh's economy. Thank you for sharing this information."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+  {
+    "dialog_id": "0x048",
+    "dialog": [
+      {
+        "id": 0,
+        "sender": "participant1",
+        "text": "I've heard about corruption issues in some countries. How is the situation with corruption in Bangladesh?"
+      },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Corruption is a concern in Bangladesh, as it is in many parts of the world. The country has faced challenges in addressing corruption at various levels, including within the government, public institutions, and private sectors. Efforts have been made to combat corruption through legal frameworks, anti-corruption commissions, and awareness campaigns."
+      },
+      {
+        "id": 2,
+        "sender": "participant1",
+        "text": "Is there any progress being made to tackle corruption effectively?"
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "Yes, the government of Bangladesh has taken steps to combat corruption and promote transparency. Initiatives include strengthening anti-corruption laws, implementing stricter regulations, and establishing anti-corruption institutions. However, it is an ongoing challenge, and continuous efforts are needed to address this issue and ensure accountability."
+      },
+      {
+        "id": 4,
+        "sender": "participant1",
+        "text": "I see. It's crucial to have strong measures in place to fight corruption. I hope there will be further progress in this regard. Thank you for sharing this information."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+  {
+    "dialog_id": "0x049",
+    "dialog": [
+      {
+        "id": 0,
+        "sender": "participant1",
+        "text": "How are the medical facilities in Bangladesh?"
+      },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Bangladesh has made significant progress in improving its medical facilities over the years. The country has a mix of public and private hospitals, clinics, and healthcare centers that provide a range of medical services. Major cities like Dhaka, Chittagong, and Rajshahi have well-equipped hospitals with modern facilities and qualified medical professionals."
+      },
+      {
+        "id": 2,
+        "sender": "participant1",
+        "text": "Are there specialized medical institutions in Bangladesh?"
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "Yes, Bangladesh has specialized medical institutions that focus on specific areas of healthcare. There are specialized hospitals for cardiology, oncology, neurology, orthopedics, and more. These institutions offer advanced medical treatments, surgeries, and specialized care for patients with specific medical conditions."
+      },
+      {
+        "id": 4,
+        "sender": "participant1",
+        "text": "That's great to hear. Are the medical services affordable for the general population?"
+      },
+      {
+        "id": 5,
+        "sender": "participant2",
+        "text": "The affordability of medical services in Bangladesh can vary depending on the type of facility and the specific treatment required. While some public healthcare services are more accessible and affordable, specialized treatments and private healthcare may come at a higher cost. The government has also implemented various initiatives to make healthcare more affordable and accessible for the general population."
+      },
+      {
+        "id": 6,
+        "sender": "participant1",
+        "text": "Thank you for the information. It's good to know that there are quality medical facilities available in Bangladesh."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+  {
+    "dialog_id": "0x050",
+    "dialog": [
+      {
+        "id": 0,
+        "sender": "participant1",
+        "text": "How is the economy of Bangladesh?"
+      },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "The economy of Bangladesh has been experiencing steady growth in recent years. The country has made significant progress in various sectors, including agriculture, textiles and garments, manufacturing, and services. It is known for its thriving ready-made garment industry, which is a major contributor to the country's export earnings."
+      },
+      {
+        "id": 2,
+        "sender": "participant1",
+        "text": "Are there any other key industries in Bangladesh?"
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "Yes, apart from the garments sector, Bangladesh also has a growing pharmaceutical industry, IT and software services, agriculture and food processing, jute and jute products, and shipbuilding. These industries play a crucial role in generating employment opportunities and contributing to the overall economic development of the country."
+      },
+      {
+        "id": 4,
+        "sender": "participant1",
+        "text": "Is Bangladesh attracting foreign investment?"
+      },
+      {
+        "id": 5,
+        "sender": "participant2",
+        "text": "Yes, Bangladesh has been successful in attracting foreign investment in recent years. The government has implemented various measures to improve the business climate and create investment-friendly policies. As a result, sectors like textiles, garments, pharmaceuticals, and telecommunications have witnessed significant foreign direct investment, contributing to economic growth."
+      },
+      {
+        "id": 6,
+        "sender": "participant1",
+        "text": "That's impressive. How is the overall standard of living in Bangladesh?"
+      },
+      {
+        "id": 7,
+        "sender": "participant2",
+        "text": "The standard of living in Bangladesh has been improving gradually. The government has taken steps to reduce poverty, improve education and healthcare, and enhance infrastructure development. However, there are still challenges to overcome, and efforts are being made to ensure inclusive growth and uplift the living standards of all segments of the population."
+      },
+      {
+        "id": 8,
+        "sender": "participant1",
+        "text": "Thank you for the insights. It's good to know that the economy of Bangladesh is progressing and attracting investment."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+  {
+    "dialog_id": "0x051",
+    "dialog": [
+      {
+        "id": 0,
+        "sender": "participant1",
+        "text": "What is Digital Bangladesh?"
+      },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Digital Bangladesh is a vision and development strategy adopted by the government of Bangladesh to transform the country into a digitally advanced society. It aims to leverage technology and digital solutions to improve governance, enhance access to public services, empower citizens, and drive socio-economic development."
+      },
+      {
+        "id": 2,
+        "sender": "participant1",
+        "text": "What are the key initiatives under the Digital Bangladesh program?"
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "Under the Digital Bangladesh program, several key initiatives have been undertaken. These include the establishment of digital centers at the grassroots level to provide various services, the expansion of broadband internet connectivity across the country, the digitization of government processes and services, the promotion of e-commerce and online entrepreneurship, and the enhancement of digital literacy among the population."
+      },
+      {
+        "id": 4,
+        "sender": "participant1",
+        "text": "How is the Digital Bangladesh initiative benefiting the country?"
+      },
+      {
+        "id": 5,
+        "sender": "participant2",
+        "text": "The Digital Bangladesh initiative has brought significant benefits to the country. It has improved the accessibility and efficiency of public services, reduced bureaucratic processes, increased transparency and accountability, facilitated e-governance, and created opportunities for digital entrepreneurship and job creation. It has also enhanced connectivity, digital skills, and digital literacy among the population, fostering a culture of innovation and technological advancement."
+      },
+      {
+        "id": 6,
+        "sender": "participant1",
+        "text": "That's impressive. How has it impacted the lives of the people?"
+      },
+      {
+        "id": 7,
+        "sender": "participant2",
+        "text": "The Digital Bangladesh initiative has positively impacted the lives of people in various ways. It has improved access to education and healthcare services, facilitated financial inclusion through digital banking and mobile money services, enabled easier communication and connectivity, and opened up opportunities for online learning, remote work, and e-commerce. It has empowered individuals and communities, particularly in rural areas, by bridging the digital divide and providing equal access to digital opportunities."
+      },
+      {
+        "id": 8,
+        "sender": "participant1",
+        "text": "Thank you for the insights. It's great to see how the Digital Bangladesh initiative is driving positive change and transformation in the country."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+  {
+    "dialog_id": "0x052",
+    "dialog": [
+      {
+        "id": 0,
+        "sender": "participant1",
+        "text": "Tell me about the Padma Bridge in Bangladesh."
+      },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "The Padma Bridge is a significant infrastructure project in Bangladesh. It is a multipurpose road-rail bridge being constructed over the Padma River, which is one of the major rivers in the country. The bridge will connect the southwestern region of Bangladesh, including the capital city Dhaka, with the country's southern districts, facilitating smoother transportation and boosting economic growth."
+      },
+      {
+        "id": 2,
+        "sender": "participant1",
+        "text": "That sounds impressive. What are the key features of the Padma Bridge?"
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "The Padma Bridge is designed to have a total length of about 6.15 kilometers, making it one of the longest bridges in South Asia. It will have both road and rail components, with four lanes for road traffic and a separate rail track. The bridge's construction incorporates modern engineering techniques and standards to ensure its strength, durability, and resilience against natural disasters such as earthquakes and cyclones."
+      },
+      {
+        "id": 4,
+        "sender": "participant1",
+        "text": "When is the expected completion of the Padma Bridge?"
+      },
+      {
+        "id": 5,
+        "sender": "participant2",
+        "text": "The construction of the Padma Bridge began in 2014, and it is expected to be completed in the near future. Once completed, the bridge will significantly reduce travel time and transportation costs, improve connectivity between different regions of the country, and promote economic development by facilitating trade, commerce, and tourism."
+      },
+      {
+        "id": 6,
+        "sender": "participant1",
+        "text": "I'm excited to see the positive impact the Padma Bridge will have on Bangladesh's development and connectivity."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+  {
+    "dialog_id": "0x053",
+    "dialog": [
+      {
+        "id": 0,
+        "sender": "participant1",
+        "text": "Can you tell me about the six seasons of Bangladesh?"
+      },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Certainly! Bangladesh is known for its unique six-season climate, which is influenced by its geographical location and monsoon pattern. The six seasons are summer, monsoon, autumn, late autumn, winter, and spring."
+      },
+      {
+        "id": 2,
+        "sender": "participant1",
+        "text": "That's interesting. Could you describe each season briefly?"
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "Sure! Let's start with summer. It typically spans from March to May and is characterized by hot and humid weather. Monsoon follows, starting from June and lasting until early October, bringing heavy rainfall and cooler temperatures. Autumn, also known as the post-monsoon season, occurs from October to November and features pleasant weather with a mix of sunshine and occasional rain."
+      },
+      {
+        "id": 4,
+        "sender": "participant1",
+        "text": "What about late autumn?"
+      },
+      {
+        "id": 5,
+        "sender": "participant2",
+        "text": "Late autumn extends from November to December. During this season, temperatures gradually drop, and the weather becomes drier. Winter follows from December to February, with cooler temperatures, mild fog, and occasional cold spells. Finally, spring arrives in February and lasts until March, bringing pleasant weather, blooming flowers, and vibrant colors."
+      },
+      {
+        "id": 6,
+        "sender": "participant1",
+        "text": "The diversity of seasons in Bangladesh must make for a fascinating experience throughout the year."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+  {
+    "dialog_id": "0x054",
+    "dialog": [
+      {
+        "id": 0,
+        "sender": "participant1",
+        "text": "Tell me about the traditional cakes of Bangladesh."
+      },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Bangladesh has a rich culinary heritage, and there are several traditional cakes that are popular in the country. One such cake is 'Pitha,' which is a type of rice cake. Pithas come in various shapes and flavors and are often made during festivals and special occasions."
+      },
+      {
+        "id": 2,
+        "sender": "participant1",
+        "text": "That sounds interesting. Can you give me some examples of Pithas?"
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "Certainly! Some popular types of Pithas include 'Chitoi Pitha,' which is a steamed rice cake, 'Puli Pitha,' which is a dumpling-like cake filled with sweet or savory fillings, and 'Teler Pitha,' which is a deep-fried rice cake often dipped in sugar syrup."
+      },
+      {
+        "id": 4,
+        "sender": "participant1",
+        "text": "They all sound delicious. Are there any other traditional cakes?"
+      },
+      {
+        "id": 5,
+        "sender": "participant2",
+        "text": "Yes! Another popular traditional cake in Bangladesh is 'Halwa,' which is a sweet dessert made with semolina, sugar, ghee, and various nuts. Halwa is often served during religious festivals and celebrations."
+      },
+      {
+        "id": 6,
+        "sender": "participant1",
+        "text": "I'd love to try these traditional cakes someday. They sound unique and flavorful."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  },
+  {
+    "dialog_id": "0x055",
+    "dialog": [
+      {
+        "id": 0,
+        "sender": "participant1",
+        "text": "Tell me about the villages in Bangladesh."
+      },
+      {
+        "id": 1,
+        "sender": "participant2",
+        "text": "Bangladesh is known for its vibrant and picturesque villages. The rural areas of the country are characterized by lush green fields, rivers, and a close-knit community. The villages offer a glimpse into the traditional way of life in Bangladesh."
+      },
+      {
+        "id": 2,
+        "sender": "participant1",
+        "text": "What are some prominent features of the villages?"
+      },
+      {
+        "id": 3,
+        "sender": "participant2",
+        "text": "In the villages, you'll find traditional mud houses with thatched roofs, paddy fields where farmers cultivate rice, and small ponds where people engage in fishing. The villagers often have a strong sense of community and maintain close relationships with their neighbors."
+      },
+      {
+        "id": 4,
+        "sender": "participant1",
+        "text": "That sounds lovely. Are there any unique customs or traditions in the villages?"
+      },
+      {
+        "id": 5,
+        "sender": "participant2",
+        "text": "Yes, the villages have their own set of customs and traditions. They often celebrate various festivals and cultural events with great enthusiasm. Folk music and dance performances are an integral part of village festivities, showcasing the rich cultural heritage of Bangladesh."
+      },
+      {
+        "id": 6,
+        "sender": "participant1",
+        "text": "It must be a beautiful experience to visit these villages and immerse in their culture."
+      }
+    ],
+    "eval_score": 1,
+    "profile_match": 0
+  }
+ ]
