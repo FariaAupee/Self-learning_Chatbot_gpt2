@@ -1,30 +1,30 @@
 # Self-learning_Chatbot_gpt2
 
-This repository contains code for an interactive chatbot about Bangladesh. The chatbot is designed to answer various questions about Bangladesh based on a conversational dataset.
-The dataset is a JSON file containing 2000 lines of information about various topics related to Bangladesh. 
-It consists of conversations between two participants discussing different aspects of Bangladesh.
+This repository contains code for an interactive chatbot about Bangladesh. The chatbot is designed to answer various questions about Bangladesh based on a conversational dataset.<br>
+The dataset is a JSON file containing 2000 lines of information about various topics related to Bangladesh.<br>
+It consists of conversations between two participants discussing different aspects of Bangladesh.<br>
 
-Approach
-The chatbot is built using the GPT-2 language model, trained on a conversational dataset. It uses the torch library for training and inference. 
-The dataset is loaded using the 'ChatData' class.
-The model is trained using Adam optimizer. After training, the model is saved and can be loaded for chatbot interaction.
-During interaction, the chatbot takes user input and generates a response using the trained model. 
-It also provides an option for users to provide feedback on the response, allowing the chatbot to learn and improve its answers over time. 
-The feedback is collected and stored in a dictionary.
+Approach<br>
+The chatbot is built using the GPT-2 language model, trained on a conversational dataset. It uses the torch library for training and inference.<br>
+The dataset is loaded using the 'ChatData' class.<br>
+The model is trained using Adam optimizer. After training, the model is saved and can be loaded for chatbot interaction.<br>
+During interaction, the chatbot takes user input and generates a response using the trained model.<br>
+It also provides an option for users to provide feedback on the response, allowing the chatbot to learn and improve its answers over time.<br>
+The feedback is collected and stored in a dictionary.<br>
 
-Design Choices
-GPT-2 Model: The GPT-2 model is chosen for its ability to generate coherent and contextually relevant responses. It has been pretrained on a large corpus of text and fine-tuned on the conversational dataset specific to Bangladesh.
-Tokenizer: The GPT-2 tokenizer is used to preprocess the input data and encode it into tokens suitable for input to the model. Special tokens such as <startofstring>, <endofstring>, and <bot>: are added to indicate the start and end of the input string and to differentiate the bot's responses.
-Training Loop: The training loop iterates over the dataset in batches, feeding the input to the model and calculating the loss using the model's output. The Adam optimizer is used to update the model parameters based on the loss.
+Design Choices<br>
+GPT-2 Model: The GPT-2 model is chosen for its ability to generate coherent and contextually relevant responses. It has been pretrained on a large corpus of text and fine-tuned on the conversational dataset specific to Bangladesh.<br>
+Tokenizer: The GPT-2 tokenizer is used to preprocess the input data and encode it into tokens suitable for input to the model. Special tokens such as <startofstring>, <endofstring>, and <bot>: are added to indicate the start and end of the input string and to differentiate the bot's responses.<br>
+Training Loop: The training loop iterates over the dataset in batches, feeding the input to the model and calculating the loss using the model's output. The Adam optimizer is used to update the model parameters based on the loss.<br>
 You can visit [Chatbot](https://drive.google.com/drive/folders/1PD-JrZVVOXWMxh7UsLiwgUzBQTETlHAi?usp=drive_link)
 for accessing required weights.<br>
 User Feedback: The chatbot allows users to provide feedback on the generated responses. Users can indicate whether the response was helpful, not helpful, or choose to skip providing feedback. This feedback is used to improve the chatbot's answers over time.<br>
 
-Challenges Faced
+Challenges Faced<br>
 Dataset Creation: A conversational dataset between two participants about Bangladesh was created to extract the relevant text for training the model. Some of the topics of the conversation include foods,famous places, culture, climate, traditions, national history, arts and crafts about Bangladesh.  
-Additionally, the conversations in the dataset were structured in a specific format, requiring careful extraction of the conversational turns.
-Training Time: Training a large language model like GPT-2 can be computationally expensive and time-consuming. Training was performed on a GPU if available, or on a CPU if not. It required multiple epochs to achieve reasonable performance.
-User Feedback Handling: Collecting and processing user feedback adds complexity to the chatbot system. Handling different types of feedback and updating the knowledge dictionary required careful implementation.
+Additionally, the conversations in the dataset were structured in a specific format, requiring careful extraction of the conversational turns.<br>
+Training Time: Training a large language model like GPT-2 can be computationally expensive and time-consuming. Training was performed on a GPU if available, or on a CPU if not. It required multiple epochs to achieve reasonable performance.<br>
+User Feedback Handling: Collecting and processing user feedback adds complexity to the chatbot system. Handling different types of feedback and updating the knowledge dictionary required careful implementation.<br>
 
 Instructions to Run and Interact with the Chatbot
 1. Clone the repository to your local machine.
