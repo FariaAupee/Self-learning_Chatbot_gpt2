@@ -1,4 +1,4 @@
-# Self-learning_Chatbot_using_gpt2-medium
+# Self-learning_Chatbot_gpt2
 
 This repository contains code for an interactive chatbot about Bangladesh. The chatbot is designed to answer various questions about Bangladesh based on a conversational dataset.
 The dataset is a JSON file containing 2000 lines of information about various topics related to Bangladesh. 
