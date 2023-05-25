@@ -16,6 +16,7 @@ Design Choices
 GPT-2 Model: The GPT-2 model is chosen for its ability to generate coherent and contextually relevant responses. It has been pretrained on a large corpus of text and fine-tuned on the conversational dataset specific to Bangladesh.
 Tokenizer: The GPT-2 tokenizer is used to preprocess the input data and encode it into tokens suitable for input to the model. Special tokens such as <startofstring>, <endofstring>, and <bot>: are added to indicate the start and end of the input string and to differentiate the bot's responses.
 Training Loop: The training loop iterates over the dataset in batches, feeding the input to the model and calculating the loss using the model's output. The Adam optimizer is used to update the model parameters based on the loss.
+Chatbot 
 User Feedback: The chatbot allows users to provide feedback on the generated responses. Users can indicate whether the response was helpful, not helpful, or choose to skip providing feedback. This feedback is used to improve the chatbot's answers over time.
 
 Challenges Faced
@@ -43,3 +44,4 @@ Instructions to Run and Interact with the Chatbot
 Note: The knowledge learned by the chatbot will be stored in a dictionary file (knowledge.json) located in /content/drive/MyDrive/Chatbot/. This file contains the improved responses based on user feedback.
 
 Feel free to interact with the chatbot and explore different aspects of Bangladesh!
+[weights](https://drive.google.com/drive/folders/1PD-JrZVVOXWMxh7UsLiwgUzBQTETlHAi?usp=drive_link)
